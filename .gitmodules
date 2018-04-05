@@ -1,0 +1,6 @@
+[submodule "FossLab"]
+	path = FossLab
+	url = https://github.com/kurianbenoy/FossLab
+[submodule "Data-Structures-Lab"]
+	path = Data-Structures-Lab
+	url = https://github.com/kurianbenoy/Data-Structures-Lab
